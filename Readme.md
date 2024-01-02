@@ -11,4 +11,4 @@
 [![firestore-cache](https://img.youtube.com/vi/OU4l8RmEaPI/0.jpg)](https://youtu.be/OU4l8RmEaPI)
 
 ### อ่านฉบับบทความได้ที่
-https://blog.mikelopster.dev/3426619fc2ab
+https://blog.mikelopster.dev/firestore-bundle-pricing
